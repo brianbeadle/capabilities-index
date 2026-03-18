@@ -4,7 +4,7 @@ This repository contains the data and code files to replicate the model from the
 
 # Files
 
-Please note that due to the size limitations of Github, the model fit (.RDS) files are not included in the repository. These will have to be fitted by the user if replicating the results of the manuscript. Depending on the computation power of the user's machine, fit times will likely range between several days to a couple weeks. 
+Please note that due to the size limitations of Github, the model fit files (```.rds```) are not included in the repository. These will have to be fitted by the user if replicating the results of the manuscript. Depending on the computation power of the user's machine, fit times will likely range between several days to a couple weeks. 
 
 ## Code files
 
