@@ -26,5 +26,5 @@ The following posterior predictive check plots are included to evaluate model fi
 
 # References
 
-1. Bürkner, P.-C. (2017). *brms: An R Package for Bayesian Multilevel Models Using Stan*. Journal of Statistical Software, 80(1), 1–28. [https://doi.org/10.18637/jss.v080.i01](https://doi.org/10.18637/jss.v080.i01)
-2. Bürkner, P.-C (2026). *Posterior Predictive Checks for brmsfit Objects*. Retrieved March 18, 2026, from [https://paulbuerkner.com/brms/reference/pp_check.brmsfit.html](https://paulbuerkner.com/brms/reference/pp_check.brmsfit.html)
+- Bürkner, P.-C. (2017). *brms: An R Package for Bayesian Multilevel Models Using Stan*. Journal of Statistical Software, 80(1), 1–28. [https://doi.org/10.18637/jss.v080.i01](https://doi.org/10.18637/jss.v080.i01)
+- Bürkner, P.-C (2026). *Posterior Predictive Checks for brmsfit Objects*. Retrieved March 18, 2026, from [https://paulbuerkner.com/brms/reference/pp_check.brmsfit.html](https://paulbuerkner.com/brms/reference/pp_check.brmsfit.html)
