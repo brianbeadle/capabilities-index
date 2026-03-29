@@ -8,8 +8,8 @@ Please note that due to the size limitations of Github, the model fit files (```
 
 ## Code files
 
-- ```01-...```: Preprocessing file for preparing raw survey data for model development
-- ```02-final.R```: Primary code file with tasks:
+- ```01-preprocessing```: Preprocessing file for preparing raw survey data for model development
+- ```02-modeling.R```: Primary code file with tasks:
     1. Import preprocessed data and recoding
     2. Run factor analyses and all associated tests
     3. Generate summary statistics for manuscript
