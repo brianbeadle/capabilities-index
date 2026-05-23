@@ -1,6 +1,6 @@
 ################################################################################
 # Project: Multidimensional capabilities index
-# Author: Anonymized for peer-review
+# Author: Brian Beadle
 # Last update: 17.03.26
 ################################################################################
 
