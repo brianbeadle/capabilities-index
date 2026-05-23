@@ -4,9 +4,9 @@ This repository contains the data and code files to replicate the model from the
 
 # Files
 
-Please note that due to the size limitations of Github, the model fit files (```.rds```) are not included in the repository. These will have to be fitted by the user if replicating the results of the manuscript. Depending on the computation power of the user's machine, fit times will likely range between several days to a couple weeks. 
+The table below provides descriptions of the files included in this repository. Please note that due to the size limitations of Github, the model fit files (```.rds```) are not included in the repository. These will have to be fitted by the user if replicating the results of the manuscript. Depending on the computation power of the user's machine, fit times will likely range between several days to a couple weeks. 
 
-## Code files
+## Repository files
 
 - ```01-preprocessing.do```: Preprocessing file for preparing raw survey data for model development
 - ```02-modeling.R```: Primary code file with tasks:
@@ -15,7 +15,7 @@ Please note that due to the size limitations of Github, the model fit files (```
     3. Generate summary statistics for manuscript
     4. Run main capabilities index model and generate plots
     5. Run auxiliary regressions (latent trait models) and generate plots
-- ```ruwell-final-wide.dta```: Replication data file
+- ```ruwell-final-wide.dta```: Replication data file (see complete description below)
 
 ## Plot files
 
