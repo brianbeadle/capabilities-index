@@ -32,8 +32,8 @@ options(xtable.floating = FALSE)
 options(xtable.timestamp = "")
 options(future.globals.maxSize = 20 * 1024^3)
 
-# Set directory
-setwd("C:/Users/beadl/Documents/Github/lettuce-collab/R/final")
+# SET YOUR DIRECTORY HERE!!!
+setwd("")
 
 # Loading data
 d <- read_dta("ruwell-final-wide.dta")

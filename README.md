@@ -27,7 +27,7 @@ The following posterior predictive check plots are included to evaluate model fi
 
 # Data
 
-The data file `ruwell-final-wide.dta` is derived from the RuWell (Rural Wellbeing) survey, a CAPI household survey conducted in 2024 across rural areas in Albania, Kosovo, Moldova, and Romania. The analytic sample contains 2,039 respondents aged 18 and older who lived in their village for more than six months per year. Full details on sampling and fieldwork are available in (cite).
+The data file `ruwell-final-wide.dta` is derived from the RuWell survey, a CAPI household survey conducted in 2024 across rural areas in Albania, Kosovo, Moldova, and Romania. The analytic sample contains 2,039 respondents aged 18 and older who lived in their village for more than six months per year. Full details on sampling and fieldwork are available in (cite).
 
 For replication purposes, `ruwell-final-wide.dta` is used directly as the input file for `02-modeling.R` and no additional preprocessing is required. The Stata preprocessing script `01-preprocessing.do` is provided only for users who wish to replicate the full pipeline from the raw survey data (cite). Running it requires Stata with the `polychoric`, `pcamat`, and `factortest` packages installed.
 
